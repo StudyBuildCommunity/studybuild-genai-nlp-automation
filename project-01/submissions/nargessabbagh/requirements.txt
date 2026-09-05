@@ -1,0 +1,14 @@
+# Data manipulation
+pandas
+
+# Numerical computing
+numpy
+
+# Data visualization
+matplotlib
+
+# Machine learning
+scikit-learn
+
+# Model persistence
+joblib
